@@ -1,0 +1,86 @@
+ .website{
+	/*border: solid;*/
+	background-color: rgb(102,205,170);
+	height: 100px;
+	margin-top: 30px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align: center;
+	padding:20px;
+	color: white;
+
+}
+.link{
+	background-color: black;
+	height: 15px;
+	margin: 0px 30px;
+	color: white;
+	word-spacing: 20px;
+	padding: 5px 5px 5px 20px;
+}	
+.grid-container{
+	display: flex;
+	flex-direction: 30% 70%;
+	margin:0px 30px;
+	}
+
+.grid-1{
+	height:820px; 
+	width: 330px;
+	background-color: rgba(220,220,220,0.5);
+	padding: 10px
+
+
+}
+.grid-2{
+	margin-left: 15px;
+	padding: 10px;
+	height: 800px;
+	width: 100%;
+	background-color: #ddd;
+
+}
+
+.image1{
+	background-color: rgb(128,128,128);
+	height: 150px;
+	width: 300px;
+	padding: 15px
+}
+.image2{
+	background-color: rgb(128,128,128);
+	height: 150px;
+	width: 860px;
+	padding: 15px
+}
+.image3{
+	height: 20px;
+	width: 300px
+	margin-left: ;
+	padding: 15px;
+	background-color: rgb(128,128,128);
+
+
+}
+.footer{
+	background-color: rgba(128,128,128,0.3);
+	height: 100px;
+	width: 1270px;
+	margin-left: 30px;
+	position: absolute;
+	margin bottom: 20px;
+	
+}	
+
+.text{
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+
+
+
+
+
+	
